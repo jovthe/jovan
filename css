@@ -8,13 +8,25 @@ h1{
 h2{
   font-family:system-ui;
   font size 200%;
-  color:grey
+  color:white
 }
 h3{
   font-family:system-ui;
   font size 200%;
+  color:grey
 }
 body{
   font-family:system-ui;
-  text-align:center
+  text-align:center;
+  background-color:gold
+}
+h4{
+  color:grey
+}
+h5{
+  color:black
+}
+img{
+  width:25%;
+  height:25%
 }
